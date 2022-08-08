@@ -1,7 +1,7 @@
 body {
     margin: 8px
 }
-#mainHeading h1 {
+h1 #mainHeading {
     color: red
 }
 #testP .funParagraph p {
