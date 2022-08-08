@@ -1,9 +1,9 @@
 body {
     margin: 8px
 }
-#mainHeading title {
+#mainHeading h1 {
     color: red
 }
-#testP .funParagraph {
+#testP .funParagraph p {
     color: green
 }
