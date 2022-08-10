@@ -1,9 +1,10 @@
 body {
-    margin: 8px
+    margin: 8px;
+    display: block;
 }
 #mainHeading {
-    color: red
+    color: red;
 }
-#testP .funParagraph p {
-    color: green
+.funParagraph {
+    color: green;
 }
